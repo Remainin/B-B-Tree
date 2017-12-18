@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1496550879 source:c:\users\dell\desktop\桌面缓存\code仓库\123\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"BTree.h"
+	"BPlusTree.h"
+	"Context.h"
+
+1496500879 source:c:\users\dell\desktop\桌面缓存\code仓库\123\bplustree.cpp
+	"BPlusTree.h"
+	"struct.h"
+	<stdio.h>
+	<stdlib.h>
+	<io.h>
+
+1441586510 c:\users\dell\desktop\桌面缓存\code仓库\123\bplustree.h
+	"struct.h"
+	"Tree.h"
+
+1496502676 c:\users\dell\desktop\桌面缓存\code仓库\123\struct.h
+
+1496550816 c:\users\dell\desktop\桌面缓存\code仓库\123\tree.h
+	"struct.h"
+	<stdio.h>
+
+1496552193 source:c:\users\dell\desktop\桌面缓存\code仓库\123\btree.cpp
+	"BTree.h"
+	"struct.h"
+	<stdio.h>
+	<stdlib.h>
+	<io.h>
+
+1496550802 c:\users\dell\desktop\桌面缓存\code仓库\123\btree.h
+	"struct.h"
+	"Tree.h"
+
+1496550807 c:\users\dell\desktop\桌面缓存\code仓库\123\context.h
+	"Tree.h"
+
+1496554866 source:d:\c\源文件\123\btree.cpp
+	"BTree.h"
+	"struct.h"
+	<stdio.h>
+	<stdlib.h>
+	<io.h>
+
+1496550804 d:\c\源文件\123\btree.h
+	"struct.h"
+	"Tree.h"
+
+1496502678 d:\c\源文件\123\struct.h
+
+1496550818 d:\c\源文件\123\tree.h
+	"struct.h"
+	<stdio.h>
+
+1496559265 source:d:\c\源文件\123\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"BTree.h"
+	"BPlusTree.h"
+	"Context.h"
+
+1441586510 d:\c\源文件\123\bplustree.h
+	"struct.h"
+	"Tree.h"
+
+1496550808 d:\c\源文件\123\context.h
+	"Tree.h"
+
